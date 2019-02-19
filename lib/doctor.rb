@@ -13,6 +13,6 @@ end
 
 def new_appointment(patient, date)
   new_appointment = Appointment.new(patient, date)
-end  
+end
 
 end
