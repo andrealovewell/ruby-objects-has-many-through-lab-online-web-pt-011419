@@ -7,7 +7,7 @@ class Genre
     @name =name
   end
 
-  def .self.all  
+  def .self.all
     @@all
   end
 
@@ -22,4 +22,4 @@ class Genre
       song.artist
     end
   end
-end  
+end
